@@ -88,7 +88,7 @@ print(me.get_motivation())
 
 ## 🚀 Featured Projects
 
-### 🎟️ BookMyShow Clone
+### 🎟️ [BookMyShow Clone](https://github.com/sarbeswarbhol/bookmyshow-clone)
 
 **Full Stack | Django + React**
 
@@ -98,7 +98,7 @@ print(me.get_motivation())
 
 ---
 
-### 🧠 ChatVerse – Chat & Calling App
+### 💬 [ChatVerse – Chat & Calling App](https://github.com/sarbeswarbhol/chatverse)
 
 **WebSockets + Django + WebRTC**
 
@@ -108,7 +108,7 @@ print(me.get_motivation())
 
 ---
 
-### 📚 Student Management System
+### 🏫 [Student Management System](https://github.com/sarbeswarbhol/Student-Management)
 
 **Python + Django**
 
@@ -118,7 +118,7 @@ print(me.get_motivation())
 
 ---
 
-### ✅ ToDo App
+### ✅ [ToDo App](https://github.com/sarbeswarbhol/Todo-app)
 
 **React + Django REST**
 
