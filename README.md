@@ -155,13 +155,9 @@ print(me.get_motivation())
 ---
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=sarbeswarbhol&theme=algolia&no-bg=true&no-frame=true&margin-w=10&title=Commits,Repositories,Experience,Followers" 
-    height="180em"
-    alt="GitHub Trophies" 
-  />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarbeswarbhol&theme=algolia&margin-w=10&no-bg=true&no-frame=true" />
+</p>
 
 
 
