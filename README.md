@@ -1,21 +1,198 @@
-<h1 align="center">Hi 👋, I'm Sarbeswar Bhol</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarbeswarbhol" alt="sarbeswarbhol" /></a> </p>
-
-- 📫 How to reach me **work.sarbeswarbhol@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bholsarbeswar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bholsarbeswar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarbeswarbhol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarbeswarbhol" height="30" width="40" /></a>
+<!-- PROFILE HEADER -->
+<p align="center">
+  <img src="https://github.com/sarbeswarbhol.png" width="150" height="150" alt="Sarbeswar Bhol"
+       style="border-radius: 50%; border: 3px solid #58A6FF; box-shadow: 0 4px 12px rgba(88, 166, 255, 0.6);" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=✨+Hey+there!+I'm+Sarbeswar+Bhol+👋;Full+Stack+Developer+🧑‍💻;Security+Enthusiast+🛡️;Tech+Explorer+🌐" alt="Typing SVG Header" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarbeswarbhol&show_icons=true&locale=en&layout=compact" alt="sarbeswarbhol" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarbeswarbhol&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sarbeswarbhol?label=Followers&style=social&logo=github" alt="GitHub Followers" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarbeswarbhol&show_icons=true&locale=en" alt="sarbeswarbhol" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarbeswarbhol&" alt="sarbeswarbhol" /></p>
+
+## 👨‍💻 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260px" alt="Coding GIF" />
+</p>
+
+<ul>
+  <li>🎓 Final-year B.Tech CSE @ <strong>RITE, Bhubaneswar</strong></li>
+  <li>💡 Building <strong>real-world full-stack apps</strong> & secure systems</li>
+  <li>💻 Tech Stack: <code>Python</code>, <code>Django</code>, <code>React</code>, <code>C++</code>, <code>Java</code>, <code>SQL</code></li>
+  <li>🔐 Keen on <code>Web Security</code>, <code>WebSockets</code>, <code>System Design</code></li>
+  <li>🚀 Exploring the <code>MERN Stack</code> and scalable architectures</li>
+  <li>🤝 I thrive in team environments & love collaborative work</li>
+  <li>🏆 Hackathon & coding contest enthusiast</li>
+  <li>🎯 <strong>Fun Fact</strong>: I solve a Rubik’s Cube in under <strong>2 minutes</strong> 😄</li>
+</ul>
+
+
+
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Sarbeswar Bhol"
+        self.education = "B.Tech CSE @ RITE"
+        self.skills = ["Python", "Django", "React", "C++", "Java", "SQL"]
+        self.interests = ["Web Security", "System Design", "WebSockets"]
+
+    def get_motivation(self):
+        return "Building solutions that make an impact"
+
+me = Developer()
+print(me.get_motivation())
+````
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
+</p>
+
+### 🔧 Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,flask" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase" />
+</p>
+
+### ⚙️ DevOps & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,aws,heroku,vercel" />
+</p>
+
+### 💬 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎟️ BookMyShow Clone
+
+**Full Stack | Django + React**
+
+* 🎬 Full-featured movie ticket booking system
+* 🛠️ Dynamic seat pricing, secure payments, and QR code ticketing
+* 👥 Admin panels for theater/movie owners, refund & retry logic
+
+---
+
+### 🧠 ChatVerse – Chat & Calling App
+
+**WebSockets + Django + WebRTC**
+
+* 💬 Real-time chat and video calling with E2EE
+* 🔐 AES + RSA hybrid encryption with zero data leak tolerance
+* 🌐 Scalable Django backend and sleek React interface
+
+---
+
+### 📚 Student Management System
+
+**Python + Django**
+
+* 🏫 Manage students, results, attendance, and faculty roles
+* 🧑‍🏫 Role-based access for admin, teacher, and student
+* 📊 Dashboard with analytics and record exports
+
+---
+
+### ✅ ToDo App
+
+**React + Django REST**
+
+* 🗂️ Clean UI for task creation, filtering, and management
+* 🔄 RESTful API with token-based auth
+* 📱 Fully responsive with modern UI/UX
+
+---
+
+## 📈 GitHub Stats
+
+<!-- GitHub Stats & Top Languages -->
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarbeswarbhol&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbeswarbhol&layout=compact&langs_count=8&theme=radical" />
+
+</div>
+
+<!-- GitHub Streak -->
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarbeswarbhol&theme=radical" alt="GitHub Streak"/>
+
+</div>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarbeswarbhol&theme=radical&bg_color=1a1b27&color=E5E5E5&line=F85A40&point=FFB86C" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=sarbeswarbhol&theme=algolia&no-bg=true&no-frame=true&margin-w=10&title=Commits,Repositories,Experience,Followers" 
+    height="180em"
+    alt="GitHub Trophies" 
+  />
+</div>
+
+
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://sarbeswarbhol.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sarbeswarbhol" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/bholsarbeswar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:work.sarbeswarbhol@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/sarbeswarbhol/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://github.com/sarbeswarbhol" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
+  <p style="font-size: 14px; color: #ccc;">
+    Thanks for stopping by — let’s build something awesome together 💙
+  </p>
+</div>
