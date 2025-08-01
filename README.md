@@ -57,13 +57,13 @@ print(me.get_motivation())
 ### 🚀 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,bootstrap,sass" />
 </p>
 
 ### 🔧 Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,flask,fastapi" />
 </p>
 
 ### 🗄️ Databases
@@ -75,7 +75,7 @@ print(me.get_motivation())
 ### ⚙️ DevOps & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,aws,heroku,vercel" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,vercel,netlify,heroku,figma" />
 </p>
 
 ### 💬 Languages
@@ -141,7 +141,7 @@ print(me.get_motivation())
 <!-- GitHub Streak -->
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarbeswarbhol&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarbeswarbhol&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
 </div>
 
