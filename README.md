@@ -22,32 +22,40 @@
 </p>
 
 <ul>
-  <li>🎓 Final-year B.Tech CSE @ <strong>RITE, Bhubaneswar</strong></li>
-  <li>💡 Building <strong>real-world full-stack apps</strong> & secure systems</li>
-  <li>💻 Tech Stack: <code>Python</code>, <code>Django</code>, <code>React</code>, <code>C++</code>, <code>Java</code>, <code>SQL</code></li>
-  <li>🔐 Keen on <code>Web Security</code>, <code>WebSockets</code>, <code>System Design</code></li>
-  <li>🚀 Exploring the <code>MERN Stack</code> and scalable architectures</li>
-  <li>🤝 I thrive in team environments & love collaborative work</li>
-  <li>🏆 Hackathon & coding contest enthusiast</li>
-  <li>🎯 <strong>Fun Fact</strong>: I solve a Rubik’s Cube in under <strong>2 minutes</strong> 😄</li>
+  <li>🎓 B.Tech in Computer Science & Engineering from <strong>RITE, Bhubaneswar</strong></li>
+  <li>💻 Aspiring <strong>Python Full Stack Developer</strong></li>
+  <li>🛠️ <strong>Tech Stack:</strong> <code>Python</code>, <code>Django</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>React</code>, <code>SQL</code></li>
+  <li>🚀 Building real-world web applications and practical projects</li>
+  <li>🔐 Interested in web security and secure application development</li>
+  <li>🤖 Exploring AI and modern web technologies</li>
+  <li>📚 Continuously learning and improving my development skills</li>
 </ul>
 
 
 
 
 ```python
-class Developer:
-    def __init__(self):
-        self.name = "Sarbeswar Bhol"
-        self.education = "B.Tech CSE @ RITE"
-        self.skills = ["Python", "Django", "React", "C++", "Java", "SQL"]
-        self.interests = ["Web Security", "System Design", "WebSockets"]
+from dataclasses import dataclass, field
 
-    def get_motivation(self):
-        return "Building solutions that make an impact"
+
+@dataclass
+class Developer:
+    name: str = "Sarbeswar Bhol"
+    education: str = "B.Tech CSE | RITE, Bhubaneswar"
+    role: str = "Python Full Stack Developer"
+    skills: list[str] = field(default_factory=lambda: [
+        "Python", "Django", "React", "JavaScript", "SQL"
+    ])
+    interests: tuple[str, ...] = (
+        "Web Security", "System Design", "AI"
+    )
+
+    def __str__(self) -> str:
+        return f"{self.name} | {self.role}"
+
 
 me = Developer()
-print(me.get_motivation())
+print(me)
 ````
 
 ---
@@ -57,31 +65,31 @@ print(me.get_motivation())
 ### 🚀 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
 ### 🔧 Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi" />
 </p>
 
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 </p>
 
-### ⚙️ DevOps & Tools
+### ⚙️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,vercel,netlify,heroku,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,figma" />
 </p>
 
 ### 💬 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
 ---
